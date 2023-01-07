@@ -1,0 +1,114 @@
+/* header styles */
+.top-section{
+    background-image: url(images/banner/banner1.png);
+    background-repeat: no-repeat;
+    height: 800px;
+}
+.top-site{
+    text-align: right;
+    padding: 280px 100px 0px 800px;
+}
+.top-title{
+    font-weight: 700;
+    font-size: 50px;
+}
+.top-btn{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.top-para{
+    padding-bottom: 30px;
+}
+/* main one styles */
+.mid-section-one{
+    background-image: url(images/person.png);
+    background-repeat: no-repeat;
+    height: 750px;
+    margin: 100px 0px 0px 100px;
+    gap: 10px;
+}
+.mid-site-one{
+    text-align: right;
+    padding: 280px 200px 0px 650px;
+}
+.one-title{
+    font-weight: 400;
+    font-size: 30px;
+}
+.one-para, .one-title{
+    text-align: left;
+}
+/* mid section two styles */
+.two-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 70px;
+}
+.box-div{
+    display: flex;
+    gap: 70px;
+    padding: 0px 0px 0px 225px; 
+}
+h3{
+    color: gray;
+}
+/* mid section three */
+.mid-section-three{
+    background-image: url(images/gradient2.png), url(images/watch.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    margin: 50px 100px;
+}
+.three-content{
+    padding: 120px 0px 0px 50px;
+}
+.three-title{
+    font-weight: 600;
+    font-size: 40px;
+    color: white;
+}
+.three-btn{
+    border: none;
+    color: red;
+    padding: 14px 30px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+/* footer part styles */
+.footer-section{
+    display: flex;
+    background: black;
+    color: white;
+}
+.footer-content-one{
+    padding: 60px 600px 60px 100px;
+}
+.footer-content-two{
+    padding: 60px 100px;
+}
+.footer-title{
+    font-size: 35px;
+}
+.footer-form{
+    border: 1px solid white;
+   color: white;
+   padding: 10px;
+   margin: 40px 0px 20px 0px;
+}
+.footer-btn{
+    border: none;
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 14px 32px;
+    border-radius: 5px;
+}
